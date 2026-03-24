@@ -48,7 +48,6 @@ At Decathlon, I work on warehouse operations data, building dashboards, and anal
 - Tracked performance across multiple warehouse teams  
 - Enabled data-driven decision-making with filters and drilldowns  
 
-👉 (Add project link here)
 
 ---
 
@@ -57,8 +56,8 @@ At Decathlon, I work on warehouse operations data, building dashboards, and anal
 - SQL queries for business insights  
 - Visualization of trends and KPIs  
 
-👉 (Add project link here)
-
+👉 (https://github.com/tratul/retail-data-analytics-case-study)
+<!--
 ---
 
 ### 🤖 Machine Learning Project
@@ -67,7 +66,7 @@ At Decathlon, I work on warehouse operations data, building dashboards, and anal
 - Compared multiple algorithms for performance  
 
 👉 (Add project link here)
-
+-->
 ---
 
 ## 🎯 Current Focus
